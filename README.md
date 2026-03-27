@@ -1,4 +1,9 @@
 # Real-Time-Market-Sentiment-Price-Analytics-Pipeline
+<img width="1429" height="804" alt="image" src="https://github.com/user-attachments/assets/c981800d-687e-480f-810b-480ace4f5c86" />
+
+https://app.powerbi.com/view?r=eyJrIjoiN2YwYzFjYWItYTE1Ni00OTM4LWExZGYtYmU2Y2NlOTIyMzRmIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
+
+
 Real-Time Market Sentiment & Price Analytics Pipeline
 
 A real-time data engineering and analytics pipeline that collects financial market data and social media sentiment, processes the text using NLP, and generates live sentiment scores for market analysis.
